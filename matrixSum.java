@@ -44,6 +44,5 @@ public class matrixSum {
         System.out.println("Sum of main diagonal = " + d);
         System.out.println("Sum of reverse diagonal = " + e);
 
-        s.close();
     }
 }
